@@ -3,7 +3,7 @@
 A lightweight, flexible serialization system (Built for the Prowl Game Engine). The serializer supports complex object graphs, circular references, and custom serialization behaviors.
 
 Echo does what the name suggests, and create an "Echo" an intermediate representation of the target object.
-This allows for fast inspection and modification before converting to Binary or Text.
+This allows for fast inspection and modification before converting to Binary or Text, and can even be used as a small in memory database.
 
 ## Features
 
